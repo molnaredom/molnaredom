@@ -11,10 +11,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=molnaredom&show_icons=true&theme=tokyonight" />
+&nbsp;
+</div>
+    
+
 - :telescope: I’m working as a researcher at University of Szeged.
-
-<!-- :seedling: I would like to teach people.-->
-
 - :zap: In my free time, I learn Astrology
 
 ### :hammer_and_wrench: Languages and Tools :
