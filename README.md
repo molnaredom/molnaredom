@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=molnaredom&theme=dark&hide_border=false"/>
 </div>
 </hr>
 <div align="center">
