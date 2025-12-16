@@ -66,3 +66,55 @@ A comprehensive mindfulness web application featuring:
 
 ## 💡 Core Competencies
 
+Backend Development ████████████████░░ 85%
+Frontend Development ███████████░░░░░░░ 70%
+Database Design ████████████░░░░░░ 75%
+DevOps & Deployment ███████████░░░░░░░ 70%
+
+
+---
+
+## 🎓 Education & Experience
+
+### 👨‍🎓 **Computer Scientist BSc** — University of Szeged (2020-2023)
+
+Thesis: Full-stack web application for personalized job and profile analysis
+
+### 💼 **Full Stack Developer** — KPMG (July 2023 - Sep 2025)
+
+- Developed complex enterprise web applications (75% Django, 25% React)
+- Built international audit report generator (Excel processing, complex calculations)
+- 1+ year experience with large-scale applications
+
+### 🔬 **Junior Researcher** — University of Szeged (July 2021 - July 2023)
+
+- Optimization projects for complex systems
+- Network anomaly detection systems (software architecture, backend implementation)
+- Code quality analysis tools and developer productivity support
+
+---
+
+## 🌍 Languages
+
+- 🇭🇺 **Hungarian** — Native
+- 🇬🇧 **English** — B2 (Upper Intermediate)
+
+---
+
+## 🎯 Hobbies
+
+- Matek és programozás tanítás hobbiként (online és személyesen)
+- Tartalomkészítés: YouTube & TikTok (🎥 **[mindenegyseg](https://www.tiktok.com/@mindenegyseg)**)
+- Videó- és hanganyagok vágása, zeneírás
+
+---
+
+## 📞 Get in Touch
+
+<div align="center">
+
+📍 **Szolnok, Hungary**  
+📧 **molnaradam8466@gmail.com**  
+📱 **+36 50 139 1663**
+
+</div>
